@@ -1,6 +1,3 @@
-#edit
-#edit2
-
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-8d59dc4de5201274e310e4c54b9627a8934c3b88527886e3b421487c677d23eb.svg)](https://classroom.github.com/a/15Gvy4wU)
 # :wave: The Basics of GitHub 
 
@@ -79,6 +76,7 @@ The GitHub community is vast. There are many types of people who use GitHub in t
 #### Starring repositories 
 
 If you find a repository interesting or you want to keep track of it, star it! When you star a repository it’s also used as a signal to surface better recommendations on github.com/explore. If you’d like to get back to your starred repositories you can do so via your user profile. 
+banned from starting strength
 To learn  more about starring repositories, read ["Saving Repositories with Stars"](https://docs.github.com/en/github/getting-started-with-github/saving-repositories-with-stars). 
 
 #### Following users 
